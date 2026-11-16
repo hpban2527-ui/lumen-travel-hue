@@ -1,0 +1,210 @@
+[
+  {
+    "id": "G01",
+    "title": "Hue Imperial City",
+    "category": "heritage",
+    "tags": [
+      "imperial city",
+      "citadel",
+      "nguyen dynasty",
+      "royal court"
+    ],
+    "text": "The Imperial City sits within the Hue Citadel and formed the royal heart of the Nguyen dynasty's capital. The complex included the Imperial Residence and the Forbidden Purple City, where court life was centered.",
+    "source": "https://whc.unesco.org/en/list/678/"
+  },
+  {
+    "id": "G02",
+    "title": "Thien Mu Pagoda",
+    "category": "pagoda",
+    "tags": [
+      "temple",
+      "perfume river",
+      "religion",
+      "heritage"
+    ],
+    "text": "Thien Mu Pagoda is a historic religious site beside the Perfume River. UNESCO lists it among the outlying monuments associated with Hue's former imperial capital.",
+    "source": "https://whc.unesco.org/en/list/678/"
+  },
+  {
+    "id": "G03",
+    "title": "Dong Ba Market",
+    "category": "market",
+    "tags": [
+      "shopping",
+      "food",
+      "local life",
+      "traditional market"
+    ],
+    "text": "Dong Ba Market is one of Hue's best-known traditional markets. Visitors go there to explore local daily life, food stalls, and regional goods rather than royal monuments.",
+    "source": "https://govietnam.travel/province/hue/"
+  },
+  {
+    "id": "G04",
+    "title": "Truong Tien Bridge",
+    "category": "landmark",
+    "tags": [
+      "bridge",
+      "river",
+      "city center",
+      "landscape"
+    ],
+    "text": "Truong Tien Bridge is a well-known bridge in central Hue crossing the Perfume River. It is part of the city's familiar riverside scenery.",
+    "source": "https://visithue.vn/cau-truong-tien-diem-den-khong-the-bo-qua-khi-den-hue/?pid=MjMyNTJ8Y3NkbGRs0"
+  },
+  {
+    "id": "G05",
+    "title": "Perfume River",
+    "category": "nature",
+    "tags": [
+      "huong river",
+      "waterfront",
+      "landscape",
+      "city"
+    ],
+    "text": "The Perfume River flows through Hue and ties together the setting of the old capital, its imperial buildings, and nearby historic places. UNESCO describes the river as a defining part of the city's cultural landscape.",
+    "source": "https://whc.unesco.org/en/list/678/"
+  },
+  {
+    "id": "G06",
+    "title": "Minh Mang Tomb",
+    "category": "tomb",
+    "tags": [
+      "emperor",
+      "nguyen dynasty",
+      "royal tomb",
+      "heritage"
+    ],
+    "text": "The tomb of Emperor Minh Mang is one of the Nguyen royal tombs in Hue's heritage complex. It is located outside the citadel in the wider landscape of imperial memorial sites.",
+    "source": "https://whc.unesco.org/en/list/678/maps/"
+  },
+  {
+    "id": "G07",
+    "title": "Tu Duc Tomb",
+    "category": "tomb",
+    "tags": [
+      "emperor",
+      "nguyen dynasty",
+      "royal tomb",
+      "architecture"
+    ],
+    "text": "Tu Duc Tomb belongs to Hue's group of royal mausoleums connected with the Nguyen dynasty. It is an outlying part of the World Heritage monument complex.",
+    "source": "https://whc.unesco.org/en/list/678/maps/"
+  },
+  {
+    "id": "G08",
+    "title": "Khai Dinh Tomb",
+    "category": "tomb",
+    "tags": [
+      "emperor",
+      "nguyen dynasty",
+      "royal tomb",
+      "decoration"
+    ],
+    "text": "Khai Dinh Tomb is a Nguyen imperial mausoleum included in UNESCO's mapped group of Hue monuments. Its decorative architecture is noted for combining Vietnamese and European influences.",
+    "source": "https://whc.unesco.org/en/list/678/maps/"
+  },
+  {
+    "id": "G09",
+    "title": "Thuy Xuan Incense Village",
+    "category": "craft",
+    "tags": [
+      "incense",
+      "handicraft",
+      "village",
+      "traditional crafts"
+    ],
+    "text": "Thuy Xuan is a craft village associated with incense making. It offers a way to learn about a traditional Hue craft outside the imperial sites.",
+    "source": "https://govietnam.travel/province/hue/"
+  },
+  {
+    "id": "G10",
+    "title": "Thanh Toan Tiled Bridge",
+    "category": "heritage",
+    "tags": [
+      "covered bridge",
+      "village",
+      "architecture",
+      "countryside"
+    ],
+    "text": "Thanh Toan is known for a traditional roofed bridge in the countryside around Hue. The bridge is associated with village heritage and a quieter, rural side of the region.",
+    "source": "https://govietnam.travel/province/hue/"
+  },
+  {
+    "id": "G11",
+    "title": "Hue Museum of Royal Antiquities",
+    "category": "museum",
+    "tags": [
+      "museum",
+      "artifacts",
+      "court",
+      "history"
+    ],
+    "text": "Hue's Museum of Royal Antiquities introduces visitors to objects connected with the former imperial court. It is a museum stop for people interested in Nguyen-era material culture.",
+    "source": "https://govietnam.travel/province/hue/"
+  },
+  {
+    "id": "G12",
+    "title": "Nam Giao Esplanade",
+    "category": "heritage",
+    "tags": [
+      "ceremony",
+      "royal ritual",
+      "heritage",
+      "nguyen dynasty"
+    ],
+    "text": "Nam Giao Esplanade was a ceremonial site associated with the spiritual and ritual life of the Nguyen court. UNESCO includes it in the wider Complex of Hue Monuments.",
+    "source": "https://whc.unesco.org/en/list/678/"
+  },
+  {
+    "id": "G13",
+    "title": "Vong Canh Hill",
+    "category": "nature",
+    "tags": [
+      "hill",
+      "viewpoint",
+      "landscape",
+      "river"
+    ],
+    "text": "Vong Canh Hill is a scenic viewpoint near Hue often associated with views of the surrounding landscape and river. It appeals to visitors interested in scenery rather than palace interiors.",
+    "source": "https://visithue.vn/Mot-lan-chiem-nguong-ve-dep-than-tien-tren-doi-Vong-Canh.html/?pid=MTkyMTl8Y3NkbGRs0"
+  },
+  {
+    "id": "G14",
+    "title": "Hue Food Traditions",
+    "category": "food",
+    "tags": [
+      "cuisine",
+      "local food",
+      "specialties",
+      "culture"
+    ],
+    "text": "Food is an important part of Hue's cultural identity. Visitors can explore regional specialties in markets and local food places, alongside the city's monuments and riverside attractions.",
+    "source": "https://govietnam.travel/province/hue/"
+  },
+  {
+    "id": "G15",
+    "title": "Royal Court Music",
+    "category": "culture",
+    "tags": [
+      "nha nhac",
+      "music",
+      "royal court",
+      "performance"
+    ],
+    "text": "Nha nhac is ceremonial music associated with Vietnam's former royal court. In Hue it is remembered as part of the Nguyen dynasty's cultural legacy.",
+    "source": "https://ich.unesco.org/en/RL/nha-nhac-vietnamese-court-music-00074"
+  },
+  {
+    "id": "G16",
+    "title": "Hue as a Former Capital",
+    "category": "history",
+    "tags": [
+      "history",
+      "capital",
+      "nguyen dynasty",
+      "unesco"
+    ],
+    "text": "Hue became the capital of unified Vietnam in 1802 under the Nguyen dynasty and remained the royal capital until 1945. The Complex of Hue Monuments was placed on the UNESCO World Heritage List in 1993.",
+    "source": "https://whc.unesco.org/en/list/678/"
+  }
+]

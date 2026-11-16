@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+.DS_Store
+.vscode/
+.idea/
+.recordings/
+*.mp4
+*.mov
+*.zip
+evaluation_results.json
